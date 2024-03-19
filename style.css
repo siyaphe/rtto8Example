@@ -1,0 +1,42 @@
+.adContainer{
+    border: solid green;
+    background-color: antiquewhite;
+    display: flex;
+    padding:15px;
+    justify-content: space-between;
+
+}
+
+.leftArrow{
+    border: solid red;
+    height: 20px;
+}
+
+.adTxt{
+    border: solid blue;
+    height: 30px;
+}
+
+.adLink{
+    border: solid green;
+    height: 30px;
+}
+
+.rightArrow{
+    border: solid red;
+    height: 20px;
+}
+
+
+
+
+.navBar{
+    border: solid rgb(222, 222, 228);
+    background-color: rgb(69, 69, 184);
+    padding: 15px;
+    justify-content: space-between;
+
+}
+.mainpic{
+    width: 100%;
+}
